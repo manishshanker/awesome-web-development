@@ -8,3 +8,4 @@
 - https://medium.com/@parkerdan/react-reselect-and-redux-b34017f8194c
 - https://medium.com/@arikmaor/react-redux-performance-tuning-tips-cef1a6c50759
 - https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09#.ur9arejz7
+- http://webappsec-nutshell.kimminich.de/#/4
